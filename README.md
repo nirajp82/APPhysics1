@@ -1,19 +1,3 @@
-Perfect 👍 — so you want **12 GitHub-ready `README.md` files** (one per week), each with:
-
-* Clear daily checklist (Mon–Sun)
-* Topic for the week
-* Direct learning links (Khan Academy, Bozeman Science, etc.)
-* Progress checkboxes
-* Self-quiz and reflection
-
-Here’s how we’ll do it:
-
-* Each `README.md` is fully formatted for GitHub.
-* Designed for **Oct 2025 → Jan 2026**.
-* She can simply tick ✅ on GitHub or in VS Code.
-
----
-
 ## 📁 Week 01 – Precalculus & Linear Motion (Oct 21 – 27)
 
 ```markdown
